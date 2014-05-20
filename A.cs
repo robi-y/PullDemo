@@ -5,5 +5,8 @@ class A
 	}
 	public void a3()
 	{
+	}	
+	public void a2()
+	{
 	}
 }
